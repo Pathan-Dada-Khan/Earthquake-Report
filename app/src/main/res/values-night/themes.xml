@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EarthquakeReport" parent="Theme.AppCompat.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FF0000</item>
+        <item name="colorPrimaryDark">#F44336</item>
+        <item name="colorAccent">#FF0000</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
